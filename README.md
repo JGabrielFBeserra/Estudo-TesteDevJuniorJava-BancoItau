@@ -9,8 +9,6 @@ Este projeto consiste na implementação de uma API REST que recebe transações
 - Spring Web
 - Spring Boot Actuator
 - Lombok
-- SpringDoc OpenAPI
-- JUnit
 
 ## Endpoints Implementados
 1. **Receber Transações** (`POST /transacao`)
