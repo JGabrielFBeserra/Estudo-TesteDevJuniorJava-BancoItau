@@ -35,13 +35,8 @@ Este projeto consiste na implementação de uma API REST que recebe transações
    ```sh
    ./gradlew bootRun
    ```
+   
 4. Acesse a documentação da API em: `http://localhost:8080/swagger-ui.html`
-
-## Testes
-Os testes unitários podem ser executados com:
-```sh
-./gradlew test
-```
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se livre para abrir issues e pull requests.
